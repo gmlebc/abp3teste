@@ -1,4 +1,3 @@
-import React from 'react';
 import { Cloud, CloudSun, Thermometer, Wind } from 'lucide-react';
 import Customcard from './Customcard';
 
